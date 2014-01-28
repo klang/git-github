@@ -1,4 +1,6 @@
+q3:helper1
 spacer1
+q3:feature
 spacer2
 q1:feature
 spacer3
