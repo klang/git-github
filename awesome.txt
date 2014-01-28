@@ -1,4 +1,6 @@
+p3:helper1
 spacer1
+p3:feature
 spacer2
 p1:feature
 spacer3
